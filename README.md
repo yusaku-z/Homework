@@ -6,6 +6,10 @@
 
 「・」は「t」, 「-」は「-」で入力
 
+アルファベットA～Z, SOSを表示可能
+
+アルファベット, SOSは以下のように対応している
+
 A:t-   B:-ttt C:-t-t  D:-tt  E:t   F:tt-t G:--t  H:tttt  I:tt 
 
 J:t---  K:-t-  L:t-tt  M:--   N:-t  O:---  P:t--t  Q:--t-  R:t-t
