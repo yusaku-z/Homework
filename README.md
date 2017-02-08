@@ -35,5 +35,6 @@ $ rosrun mypkg count.py
 
 $ rosrun mypkg twice.py
 
-5.端末1,2,3の終了
+5．端末1,2,3の終了
+
 $ ^c
