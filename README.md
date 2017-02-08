@@ -3,9 +3,13 @@
 パブリッシャ(count.py)に入力された文字をサブスクライバ(twice.py)で受け取り、決められた文字を表示します。
 
 <動作>
+
 「・」は「t」, 「-」は「-」で入力
+
 A:t-   B:-ttt C:-t-t D:-tt  E:t   F:tt-t G:--t  H:tttt I:tt 
+
 J:t--- K:-t-  L:t-tt M:--   N:-t  O:---  P:t--t Q:--t- R:t-t
+
 S:ttt  T:-    U:tt-  V:ttt- W:t-- X:-tt- Y:-t-- Z:--tt SOS:ttt---ttt
 
 
