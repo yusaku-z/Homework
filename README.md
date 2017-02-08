@@ -6,11 +6,11 @@
 
 「・」は「t」, 「-」は「-」で入力
 
-A:t-   B:-ttt C:-t-t D:-tt  E:t   F:tt-t G:--t  H:tttt I:tt 
+A:t-   B:-ttt C:-t-t  D:-tt  E:t   F:tt-t G:--t  H:tttt  I:tt 
 
-J:t--- K:-t-  L:t-tt M:--   N:-t  O:---  P:t--t Q:--t- R:t-t
+J:t---  K:-t-  L:t-tt  M:--   N:-t  O:---  P:t--t  Q:--t-  R:t-t
 
-S:ttt  T:-    U:tt-  V:ttt- W:t-- X:-tt- Y:-t-- Z:--tt SOS:ttt---ttt
+S:ttt   T:-    U:tt-  V:ttt- W:t--  X:-tt-  Y:-t--  Z:--tt  SOS:ttt---ttt
 
 
 <使い方>
