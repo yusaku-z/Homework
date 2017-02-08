@@ -4,7 +4,7 @@ import rospy
 from std_msgs.msg import String
 
 if __name__== '__main__':
-    print"モールス信号を打ち込んで下さい"
+    print"モールス信号の練習を始めます"
     print"「・」は「t」, 「-」は「-」で入力"
     rospy.init_node('count')
     pub = rospy.Publisher('count_up', String, queue_size=50)
