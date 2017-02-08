@@ -46,3 +46,7 @@ $ rosrun mypkg twice.py
 5．端末1,2,3の終了
 
 $ ^c
+
+#動画
+
+https://youtu.be/pT6M8DZZtEE
